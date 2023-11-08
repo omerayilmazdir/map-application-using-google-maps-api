@@ -1,0 +1,72 @@
+[
+    {
+      "name": "Şirket 1",
+      "address": "Pendik İstanbul",
+      "category": "Kategori 1",
+      "employeeCount": 50,
+      "annualRevenue": 1000000
+    },
+    {
+      "name": "Şirket 2",
+      "address": "Kartal İstanbul",
+      "category": "Kategori 2",
+      "employeeCount": 25,
+      "annualRevenue": 500000
+    },
+    {
+      "name": "Şirket 3",
+      "address": "Maltepe İstanbul",
+      "category": "Kategori 1",
+      "employeeCount": 10,
+      "annualRevenue": 200000
+    },
+    {
+      "name": "Şirket 4",
+      "address": "Caddebostan, Bağdat Cad. No: 342, 34728 Kadıköy/İstanbul",
+      "category": "Kategori 3",
+      "employeeCount": 100,
+      "annualRevenue": 3000000
+    },
+    {
+      "name": "Şirket 5",
+      "address": "Üsküdar İstanbul",
+      "category": "Kategori 2",
+      "employeeCount": 75,
+      "annualRevenue": 1500000
+    },
+    {
+      "name": "Şirket 6",
+      "address": "Beşiktaş İstanbul",
+      "category": "Kategori 3",
+      "employeeCount": 200,
+      "annualRevenue": 5000000
+    },
+    {
+      "name": "Şirket 7",
+      "address": "Sarıyer İstanbul",
+      "category": "Kategori 1",
+      "employeeCount": 30,
+      "annualRevenue": 800000
+    },
+    {
+      "name": "Şirket 8",
+      "address": "Beyoğlu İstanbul",
+      "category": "Kategori 2",
+      "employeeCount": 60,
+      "annualRevenue": 1200000
+    },
+    {
+      "name": "Şirket 9",
+      "address": "Avcılar İstanbul",
+      "category": "Kategori 1",
+      "employeeCount": 40,
+      "annualRevenue": 900000
+    },
+    {
+      "name": "Şirket 10",
+      "address": "Tuzla İstanbul",
+      "category": "Kategori 3",
+      "employeeCount": 15,
+      "annualRevenue": 1200000
+    }
+]
